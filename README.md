@@ -11,14 +11,12 @@
 
 
 
+   ![image](https://github.com/user-attachments/assets/33d5426d-eb37-4bf0-ac34-967b82397327)
 
 <br />
 <br />
 
 
- 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **About Me!**
 
