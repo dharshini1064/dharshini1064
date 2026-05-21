@@ -19,7 +19,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Pre-Final year student at SRM Institute of Technology
+- 👨🏽‍💻 I’m currently a CSE Final year student at SRM Institute of Technology
 - 🌱 I’m currently exploring Data science with a big interest in Data analytics. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [ds0348@srmist.edu.in](mailto:ds0348@srmist.edu.in).
